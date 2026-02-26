@@ -11,7 +11,7 @@ Template = [
     "Telegram",
     ]
     
-SERVER_URL = "https://dom-gptace.onrender.com"
+SERVER_URL = "https://osizjihxuhwbajj.onrender.com"
 
 CHANNEL_ID = "@DOMGPT0"
 
